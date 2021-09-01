@@ -1,1 +1,1 @@
-[This person|Github state](https://github-readme-stats.vercel.app/api?username=RemiliaCat)
+![This person|Github stats](https://github-readme-stats.vercel.app/api?username=RemiliaCat)
