@@ -1,1 +1,1 @@
-![RemiliaCat owo](https://github-readme-stats.vercel.app/api?username=RemiliaCat&hide=prs)
+![RemiliaCat owo](https://github-readme-stats.vercel.app/api?username=RemiliaCat&hide=prs&theme=swift)
