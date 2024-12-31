@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiliaCat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![RemiliaCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemiliaCat&count_private=true)
