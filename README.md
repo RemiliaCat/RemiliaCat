@@ -1,1 +1,1 @@
-![RemiliaCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemiliaCat&count_private=true)
+![RemiliaCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemiliaCat&hide=prs)
