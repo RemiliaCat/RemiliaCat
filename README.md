@@ -32,6 +32,12 @@
 [![QQ](https://img.shields.io/badge/QQ-00AEFF?logo=qq&logoColor=white)](https://qun.qq.com/universal-share/share?ac=1&authKey=46s6d%2BH%2FncbW5607L7w8WygBu2juXderZ%2FW2DUj2egubUCUb%2F0FMaq1Rrw4e2xBY&busi_data=eyJncm91cENvZGUiOiI4NzMyOTMxNjAiLCJ0b2tlbiI6Implc2tkWURSS3JiK2o4a1pTakJZMllNdFlxUm1ubGRyZXUzN0xsMEN3ZEpXaTBjamZOSWo3d3hmbG5vZmxIakMiLCJ1aW4iOiIyMTE1OTYzMzM5In0%3D&data=oXIeXU97b-XoHnua5nKpP4JrlPSVNGIi864VtOt3q2vP8U7CDfaxO5PO5p-jG8yeC6AdUdkFoXOfnFU4i6ewig&svctype=4&tempid=h5_group_info)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RmCaty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:RemiliaNero@gmail.com)
 
----
+QQ-Group: [873293160](https://qun.qq.com/universal-share/share?ac=1&authKey=46s6d%2BH%2FncbW5607L7w8WygBu2juXderZ%2FW2DUj2egubUCUb%2F0FMaq1Rrw4e2xBY&busi_data=eyJncm91cENvZGUiOiI4NzMyOTMxNjAiLCJ0b2tlbiI6Implc2tkWURSS3JiK2o4a1pTakJZMllNdFlxUm1ubGRyZXUzN0xsMEN3ZEpXaTBjamZOSWo3d3hmbG5vZmxIakMiLCJ1aW4iOiIyMTE1OTYzMzM5In0%3D&data=oXIeXU97b-XoHnua5nKpP4JrlPSVNGIi864VtOt3q2vP8U7CDfaxO5PO5p-jG8yeC6AdUdkFoXOfnFU4i6ewig&svctype=4&tempid=h5_group_info)
 
-[![](https://komarev.com/ghpvc/?username=RemiliaCat&icon=0&color=0)](https://visitcount.itsvg.in)
+Twitter: [@RmCaty](https://twitter.com/RmCaty)
+
+Email: [RemiliaNero@gmail.com](mailto:RemiliaNero@gmail.com)
+
+## 💤 其他 Others:
+
+[![visiors](https://komarev.com/ghpvc/?username=RemiliaCat&icon=0&color=3884ff)](https://visitcount.itsvg.in)
