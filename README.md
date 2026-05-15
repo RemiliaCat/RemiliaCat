@@ -8,13 +8,13 @@
 ### 技能 - Skills
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </dev>
 
 <div align="center">
 
-![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=gnubash&logoColor=white)![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-525252?style=for-the-badge&logo=iterm2&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=gnubash&logoColor=white) ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-525252?style=for-the-badge&logo=iterm2&logoColor=white)
 
 </dev>
 
