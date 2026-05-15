@@ -1,1 +1,1 @@
-![RemiliaCat owo](https://github-readme-stats.vercel.app/api?username=RemiliaCat&hide=prs&theme=swift)
+[![Remilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemiliaCat)](https://github.com/anuraghazra/github-readme-stats)
