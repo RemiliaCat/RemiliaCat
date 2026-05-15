@@ -1,1 +1,1 @@
-[![RemiliaCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemiliaCat)](https://github.com/anuraghazra/github-readme-stats)
+[![RemiliaCat's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=RemiliaCat&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
